@@ -1,0 +1,22 @@
+# .gitignore
+
+# arquivo com tasks
+tasks.json
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Variáveis de ambiente
+.env
+
+# Cache
+.cache/
+dist/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
